@@ -1,0 +1,226 @@
+MPJ Express (0.44) is started in the multicore configuration
+[Rank=19] *** Parameters ***
+[Rank=19] 	domain=M
+[Rank=19] 	numSumPerRegion=20
+[Rank=19] 	numComponentsPerVar=4
+[Rank=19] 	sparsePrior=1.0
+[Rank=19] 	baseResolution=4
+[Rank=19] 	numSlavePerClass=24
+[Rank=19] 	numSlaveGrp=1
+[Rank=4] *** Parameters ***
+[Rank=4] 	domain=M
+[Rank=4] 	numSumPerRegion=20
+[Rank=4] 	numComponentsPerVar=4
+[Rank=4] 	sparsePrior=1.0
+[Rank=4] 	baseResolution=4
+[Rank=4] 	numSlavePerClass=24
+[Rank=4] 	numSlaveGrp=1
+[Rank=3] *** Parameters ***
+[Rank=3] 	domain=M
+[Rank=3] 	numSumPerRegion=20
+[Rank=3] 	numComponentsPerVar=4
+[Rank=3] 	sparsePrior=1.0
+[Rank=3] 	baseResolution=4
+[Rank=3] 	numSlavePerClass=24
+[Rank=3] 	numSlaveGrp=1
+[Rank=7] *** Parameters ***
+[Rank=7] 	domain=M
+[Rank=7] 	numSumPerRegion=20
+[Rank=7] 	numComponentsPerVar=4
+[Rank=7] 	sparsePrior=1.0
+[Rank=7] 	baseResolution=4
+[Rank=7] 	numSlavePerClass=24
+[Rank=7] 	numSlaveGrp=1
+[Rank=5] *** Parameters ***
+[Rank=5] 	domain=M
+[Rank=5] 	numSumPerRegion=20
+[Rank=5] 	numComponentsPerVar=4
+[Rank=5] 	sparsePrior=1.0
+[Rank=5] 	baseResolution=4
+[Rank=5] 	numSlavePerClass=24
+[Rank=5] 	numSlaveGrp=1
+[Rank=15] *** Parameters ***
+[Rank=15] 	domain=M
+[Rank=15] 	numSumPerRegion=20
+[Rank=15] 	numComponentsPerVar=4
+[Rank=15] 	sparsePrior=1.0
+[Rank=15] 	baseResolution=4
+[Rank=15] 	numSlavePerClass=24
+[Rank=15] 	numSlaveGrp=1
+[Rank=9] *** Parameters ***
+[Rank=9] 	domain=M
+[Rank=9] 	numSumPerRegion=20
+[Rank=9] 	numComponentsPerVar=4
+[Rank=9] 	sparsePrior=1.0
+[Rank=9] 	baseResolution=4
+[Rank=9] 	numSlavePerClass=24
+[Rank=9] 	numSlaveGrp=1
+[Rank=11] *** Parameters ***
+[Rank=11] 	domain=M
+[Rank=11] 	numSumPerRegion=20
+[Rank=11] 	numComponentsPerVar=4
+[Rank=11] 	sparsePrior=1.0
+[Rank=11] 	baseResolution=4
+[Rank=11] 	numSlavePerClass=24
+[Rank=11] 	numSlaveGrp=1
+[Rank=23] *** Parameters ***
+[Rank=23] 	domain=M
+[Rank=23] 	numSumPerRegion=20
+[Rank=23] 	numComponentsPerVar=4
+[Rank=23] 	sparsePrior=1.0
+[Rank=23] 	baseResolution=4
+[Rank=23] 	numSlavePerClass=24
+[Rank=23] 	numSlaveGrp=1
+[Rank=2] *** Parameters ***
+[Rank=2] 	domain=M
+[Rank=2] 	numSumPerRegion=20
+[Rank=2] 	numComponentsPerVar=4
+[Rank=2] 	sparsePrior=1.0
+[Rank=2] 	baseResolution=4
+[Rank=2] 	numSlavePerClass=24
+[Rank=2] 	numSlaveGrp=1
+[Rank=0] *** Parameters ***
+[Rank=0] 	domain=M
+[Rank=0] 	numSumPerRegion=20
+[Rank=0] 	numComponentsPerVar=4
+[Rank=0] 	sparsePrior=1.0
+[Rank=0] 	baseResolution=4
+[Rank=0] 	numSlavePerClass=24
+[Rank=0] 	numSlaveGrp=1
+[Rank=4] <TIME> init 382094 ms
+[Rank=13] *** Parameters ***
+[Rank=13] 	domain=M
+[Rank=13] 	numSumPerRegion=20
+[Rank=13] 	numComponentsPerVar=4
+[Rank=12] *** Parameters ***
+[Rank=12] 	domain=M
+[Rank=12] 	numSumPerRegion=20
+[Rank=12] 	numComponentsPerVar=4
+[Rank=12] 	sparsePrior=1.0
+[Rank=12] 	baseResolution=4
+[Rank=12] 	numSlavePerClass=24
+[Rank=12] 	numSlaveGrp=1
+[Rank=13] 	sparsePrior=1.0
+[Rank=13] 	baseResolution=4
+[Rank=13] 	numSlavePerClass=24
+[Rank=13] 	numSlaveGrp=1
+[Rank=3] <TIME> init 407370 ms
+[Rank=19] <TIME> init 413687 ms
+[Rank=24] *** Parameters ***
+[Rank=24] 	domain=M
+[Rank=24] 	numSumPerRegion=20
+[Rank=24] 	numComponentsPerVar=4
+[Rank=24] 	sparsePrior=1.0
+[Rank=24] 	baseResolution=4
+[Rank=24] 	numSlavePerClass=24
+[Rank=24] 	numSlaveGrp=1
+[Rank=14] *** Parameters ***
+[Rank=14] 	domain=M
+[Rank=14] 	numSumPerRegion=20
+[Rank=14] 	numComponentsPerVar=4
+[Rank=14] 	sparsePrior=1.0
+[Rank=14] 	baseResolution=4
+[Rank=14] 	numSlavePerClass=24
+[Rank=14] 	numSlaveGrp=1
+[Rank=1] *** Parameters ***
+[Rank=1] 	domain=M
+[Rank=1] 	numSumPerRegion=20
+[Rank=1] 	numComponentsPerVar=4
+[Rank=1] 	sparsePrior=1.0
+[Rank=1] 	baseResolution=4
+[Rank=1] 	numSlavePerClass=24
+[Rank=1] 	numSlaveGrp=1
+[Rank=16] *** Parameters ***
+[Rank=16] 	domain=M
+[Rank=16] 	numSumPerRegion=20
+[Rank=16] 	numComponentsPerVar=4
+[Rank=16] 	sparsePrior=1.0
+[Rank=16] 	baseResolution=4
+[Rank=16] 	numSlavePerClass=24
+[Rank=16] 	numSlaveGrp=1
+[Rank=21] *** Parameters ***
+[Rank=21] 	domain=M
+[Rank=21] 	numSumPerRegion=20
+[Rank=21] 	numComponentsPerVar=4
+[Rank=21] 	sparsePrior=1.0
+[Rank=21] 	baseResolution=4
+[Rank=21] 	numSlavePerClass=24
+[Rank=21] 	numSlaveGrp=1
+[Rank=2] <TIME> init 494472 ms
+[Rank=10] *** Parameters ***
+[Rank=10] 	domain=M
+[Rank=10] 	numSumPerRegion=20
+[Rank=10] 	numComponentsPerVar=4
+[Rank=10] 	sparsePrior=1.0
+[Rank=10] 	baseResolution=4
+[Rank=10] 	numSlavePerClass=24
+[Rank=10] 	numSlaveGrp=1
+[Rank=17] *** Parameters ***
+[Rank=17] 	domain=M
+[Rank=17] 	numSumPerRegion=20
+[Rank=17] 	numComponentsPerVar=4
+[Rank=17] 	sparsePrior=1.0
+[Rank=17] 	baseResolution=4
+[Rank=17] 	numSlavePerClass=24
+[Rank=17] 	numSlaveGrp=1
+[Rank=20] *** Parameters ***
+[Rank=20] 	domain=M
+[Rank=20] 	numSumPerRegion=20
+[Rank=20] 	numComponentsPerVar=4
+[Rank=20] 	sparsePrior=1.0
+[Rank=20] 	baseResolution=4
+[Rank=20] 	numSlavePerClass=24
+[Rank=20] 	numSlaveGrp=1
+[Rank=5] <TIME> init 522447 ms
+[Rank=23] <TIME> init 526461 ms
+[Rank=7] <TIME> init 530551 ms
+[Rank=9] <TIME> init 554093 ms
+[Rank=22] *** Parameters ***
+[Rank=22] 	domain=M
+[Rank=22] 	numSumPerRegion=20
+[Rank=22] 	numComponentsPerVar=4
+[Rank=22] 	sparsePrior=1.0
+[Rank=22] 	baseResolution=4
+[Rank=22] 	numSlavePerClass=24
+[Rank=22] 	numSlaveGrp=1
+[Rank=18] *** Parameters ***
+[Rank=18] 	domain=M
+[Rank=18] 	numSumPerRegion=20
+[Rank=18] 	numComponentsPerVar=4
+[Rank=18] 	sparsePrior=1.0
+[Rank=18] 	baseResolution=4
+[Rank=18] 	numSlavePerClass=24
+[Rank=18] 	numSlaveGrp=1
+[Rank=15] <TIME> init 577629 ms
+[Rank=11] <TIME> init 584949 ms
+[Rank=8] *** Parameters ***
+[Rank=8] 	domain=M
+[Rank=8] 	numSumPerRegion=20
+[Rank=8] 	numComponentsPerVar=4
+[Rank=8] 	sparsePrior=1.0
+[Rank=8] 	baseResolution=4
+[Rank=8] 	numSlavePerClass=24
+[Rank=8] 	numSlaveGrp=1
+[Rank=12] <TIME> init 607946 ms
+[Rank=13] <TIME> init 627956 ms
+[Rank=0] <TIME> init 645137 ms
+[Rank=22] <TIME> init 1201962 ms
+[Rank=24] <TIME> init 1202879 ms
+[Rank=16] <TIME> init 1213648 ms
+[Rank=14] <TIME> init 1216883 ms
+[Rank=6] *** Parameters ***
+[Rank=6] 	domain=M
+[Rank=6] 	numSumPerRegion=20
+[Rank=6] 	numComponentsPerVar=4
+[Rank=6] 	sparsePrior=1.0
+[Rank=6] 	baseResolution=4
+[Rank=6] 	numSlavePerClass=24
+[Rank=6] 	numSlaveGrp=1
+[Rank=20] <TIME> init 1230340 ms
+[Rank=10] <TIME> init 1237723 ms
+[Rank=17] <TIME> init 1244553 ms
+[Rank=21] <TIME> init 1247498 ms
+[Rank=1] <TIME> init 1248089 ms
+[Rank=8] <TIME> init 1276935 ms
+[Rank=18] <TIME> init 1284564 ms
+[Rank=6] <TIME> init 1300478 ms
