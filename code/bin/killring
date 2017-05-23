@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for p in `more machines`
+do
+        echo rsh $p kill `rsh $p ps -ef|grep hoifung|grep daemon|awk '{print $2}'`
+        rsh $p kill `rsh $p ps -ef|grep hoifung|grep daemon|awk '{print $2}'`
+done
