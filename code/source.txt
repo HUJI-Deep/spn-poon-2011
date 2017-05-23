@@ -1,0 +1,16 @@
+./src/common/Utils.java
+./src/common/MyMPI.java
+./src/common/Timer.java
+./src/common/Parameter.java
+./src/spn/ProdNode.java
+./src/spn/GenerativeLearning.java
+./src/spn/Instance.java
+./src/spn/SumNode.java
+./src/spn/SPN.java
+./src/spn/Region.java
+./src/spn/Node.java
+./src/spn/Decomposition.java
+./src/eval/Eval.java
+./src/eval/Run.java
+./src/eval/Dataset.java
+./src/eval/ImageCompletion.java
